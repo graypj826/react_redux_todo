@@ -10,9 +10,19 @@ ul {
     display: inline-block;
     margin: 0 auto;
     padding: 15px;
+    background-color:papayawhip;
 }
 
 .title{
     background-color: aquamarine;
     border-bottom: 3px solid black
+}
+
+img{
+    height: 60px;
+    width: 60px;
+}
+
+.footer{
+    background-color: peachpuff
 }
